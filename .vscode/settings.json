@@ -1,0 +1,9 @@
+{
+  "git.ignoreLimitWarning": true,
+  "extensions.confirmedUriHandlerExtensionIds": [
+    "emmet.includeLanguages",
+    {
+      "javascript": "html"
+    }
+  ]
+}
